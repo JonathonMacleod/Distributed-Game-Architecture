@@ -1,8 +1,23 @@
-# COMP3931 - Distributed Gaming Service
+# Distributed Game Architecture
 
 This repository contains the source code to a distributed gaming service, which uses a single server application to render and stream the perspective of multiple connected client applications in a shared game scene.
 
+The applications are written using C++ with OpenGL, and structured into projects through Premake5.
+
 ![A picture taken of the server application running on a desktop application, with two simultaneously connected client applications (each running on their own laptop)][deployed_system]
+
+
+
+## Table of Contents
+
+1. [Table of Contents](#table-of-contents)
+2. [Installation and Compliation](#installation-and-compilation)
+    2.1 [Prerequisites](#prerequisites)
+    2.2 [Installation](#installation)
+    2.3 [Compliation](#compilation)
+3. [Execution and Deployment](#execution-and-deployment)
+4. [Test Scenarios](#test-scenarios)
+5. [Third-Party Software Libraries](#third-party-software-libraries)
 
 
 ## Installation and Compilation
@@ -17,7 +32,7 @@ This repository contains the source code to a distributed gaming service, which 
 ### Installation
 
 To install this project, you must clone or download a copy of your chosen commit or the repository.
-No further steps are required to instal the code-base, provided the prerequisites are met for this project.
+No further steps are required to install the code-base, provided the prerequisites are met for this project.
 
 ### Compilation
 
