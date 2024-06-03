@@ -1,0 +1,14 @@
+# Ignore the intermediate compilation outputs
+bin/
+bin-int/
+
+# Ignore any Visual Studio IDE files
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.vcxproj.filters
+
+# Ignore any Visual Studio Code IDE files
+.vs/
+.vscode/
+*.code-workspace
