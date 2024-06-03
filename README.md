@@ -11,9 +11,9 @@ The applications are written using C++ with OpenGL, and structured into projects
 ## Table of Contents
 
 1. [Table of Contents](#table-of-contents)
-2. [Installation and Compliation](#installation-and-compilation)
-    2.1 [Prerequisites](#prerequisites)
-    2.2 [Installation](#installation)
+2. [Installation and Compliation](#installation-and-compilation)		\
+    2.1 [Prerequisites](#prerequisites)						\
+    2.2 [Installation](#installation)						\
     2.3 [Compliation](#compilation)
 3. [Execution and Deployment](#execution-and-deployment)
 4. [Test Scenarios](#test-scenarios)
